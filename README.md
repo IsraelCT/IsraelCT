@@ -7,7 +7,7 @@
 
 - 👯Actualmente estoy en un proyecto de robótica que incluye **Redes Neuronales Artificiales**
 
-- 🤝Estoy dispuesto a tener colaboraciones con personas que les interese el mundo de la **Ciencia de Datos.Inteligencia Artificial y Robotica**
+- 🤝Estoy dispuesto a tener colaboraciones con personas que les interese el mundo de la **Ciencia de Datos,Inteligencia Artificial y Robotica**
 
 
 
